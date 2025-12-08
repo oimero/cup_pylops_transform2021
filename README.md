@@ -24,6 +24,7 @@ to setup your environment)
 
 
 ## License
+
 The material in this repository is open and can be modified and redistributed according to the chosen licences.
 
 Text is licensed under [CC BY Creative Commons License](http://creativecommons.org/licenses/by/4.0/).
@@ -70,4 +71,6 @@ To access the workshop material, simply open the notebook titled `creating_synth
 * `creating_synthetics.ipynb` - The main notebook which will be covered in the tutorial
 * `further_reading_fwi.ipynb` - Further reading, using a slice of the model created in a toy full-waveform inversion (FWI) example
 
-Code is licensed under the [MIT License](https://opensource.org/license/mit).
+## License
+
+The material is licensed under the [MIT License](https://opensource.org/license/mit).
